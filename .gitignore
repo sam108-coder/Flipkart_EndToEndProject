@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Credentials ###
+src/test/java/resources/Properties/Config.Property
